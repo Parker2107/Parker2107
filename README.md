@@ -119,7 +119,7 @@
 🧱 Modular layout using custom widgets and dummy data  
 🎯 Navigation flow from login to dashboard to card & transactions  
 
-🔗 [View Project → BankingApp](https://github.com/Parker2107/BankingApp)
+🔗 [View Project → Banking App](https://github.com/Parker2107/BankingApp)
 
 ---
 
