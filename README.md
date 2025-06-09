@@ -100,11 +100,11 @@
 ---
 
 ### 📚 Wiki Markdown App  
-> A lightweight markdown-based **note-taking and wiki system** built with **ReactJS + TypeScript**.  
-📝 Create, edit, and delete pages using a dynamic editor  
-💾 Markdown preview with localStorage persistence  
-🔍 Search & filter through pages in real-time  
-📚 Designed for personal knowledge management and journaling  
+> A lightweight markdown-based **Wiki-system replica** built with **Django + SQLite**.  
+📝 Create, read, edit, and delete pages using a dynamic MD editor  
+💾 Markdown preview with localStorage persistence
+🔍 Search & filter through pages in real-time
+📚 Designed for personal knowledge management and journaling
 
 🔗 [View Project → Wiki](https://github.com/Parker2107/Wiki)  
 
