@@ -66,12 +66,30 @@
 
 ---
 
+### 🏦 Flutter Banking App (UI Prototype)  
+> A modern mobile banking frontend designed with **Flutter**, showcasing clean UI architecture and multi-screen navigation.
+
+**Features:**
+- 🔐 Login screen with input validation  
+- 💳 Responsive credit card display with masked card details  
+- 📊 Recent transactions screen with organized list view  
+- 🧱 Modular layout using custom widgets and dummy data  
+- 🎯 Navigation flow from login to dashboard to card & transactions  
+
+This project focuses entirely on UI/UX and is built as a base for future backend or payment gateway integration. Built with scalable code, great styling, and production-readiness in mind.
+
+🔗 [View Project → BankingApp](https://github.com/Parker2107/BankingApp)
+ 
+---
+
 ### 📂 Django + Supabase CSV Backend  
 > Robust backend that enables:  
 📄 Uploading and parsing CSVs  
 🗃️ Storing structured data in PostgreSQL  
 🔗 Serving mobile/web clients via REST APIs  
-🧪 Designed for scalability and API-driven frontends  
+🧪 Designed for scalability and API-driven frontends
+
+🔗 [View Project → Django Backend](https://github.com/Parker2107/AppBackend)
 
 ---
 
