@@ -89,7 +89,7 @@ This project focuses entirely on UI/UX and is built as a base for future backend
 🔗 Serving mobile/web clients via REST APIs  
 🧪 Designed for scalability and API-driven frontends
 
-🔗 [View Project → Django Backend](https://github.com/Parker2107/AppBackend)
+🔗 [View Project → Django Backend](https://github.com/Parker2107/App_Backend)
 
 ---
 
