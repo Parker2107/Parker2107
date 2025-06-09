@@ -99,7 +99,7 @@
 
 ---
 
-### 📚 Wiki Markdown App  
+### Wiki Markdown App  
 > A lightweight markdown-based **Wiki-system replica** built with **Django + SQLite**.  
 📝 Create, read, edit, and delete pages using a dynamic MD editor  
 💾 Markdown preview with localStorage persistence
@@ -134,7 +134,7 @@
 
 ---
 
-### 🔐 MasterKey – Password Manager  
+### MasterKey – Password Manager  
 > A secure, **offline password manager** built with **Flask + SQLite + HTML/CSS/JS** to solve a personal security breach.  
 👥 Multi-user authentication with session-based login/logout  
 🗂️ CRUD operations for managing passwords in a scoped SQL database  
