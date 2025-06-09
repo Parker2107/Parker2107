@@ -29,17 +29,17 @@
 ### 🖼️ Frontend
 
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-
 ---
 
 ### 🔧 Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -47,6 +47,7 @@
 ---
 
 ### 🛢️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -54,17 +55,18 @@
 ---
 
 ### ⚙️ DevOps & Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/-Fly.io-000000?style=for-the-badge)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
-![AsyncStorage](https://img.shields.io/badge/-AsyncStorage-6C3483?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
+![AsyncStorage](https://img.shields.io/badge/-AsyncStorage-6C3483?style=for-the-badge)
 
 ---
 
 ### 🔤 Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -81,7 +83,7 @@
 📲 OTP login via phone number  
 💰 Razorpay payment gateway integration  
 📍 Dynamic address picker and real-time cart sync  
-🏗️ Built for production use with GCP API calls, using Location perms from the user
+🏗️ Built for production use with GCP API calls, using location permissions  
 
 ---
 
@@ -96,17 +98,15 @@
 ---
 
 ### 🏦 Flutter Banking App (UI Prototype)  
-> A modern mobile banking frontend designed with **Flutter**, showcasing clean UI architecture and multi-screen navigation.
+> A modern mobile banking frontend designed with **Flutter**, showcasing clean UI architecture and multi-screen navigation.  
 🔐 Login screen with input validation  
 💳 Responsive credit card display with masked card details  
 📊 Recent transactions screen with organized list view  
 🧱 Modular layout using custom widgets and dummy data  
 🎯 Navigation flow from login to dashboard to card & transactions  
 
-This project focuses entirely on UI/UX and is built as a base for future backend or payment gateway integration. Built with scalable code, great styling, and production-readiness in mind.
-
 🔗 [View Project → BankingApp](https://github.com/Parker2107/BankingApp)
- 
+
 ---
 
 ### 📂 Django + Supabase CSV Backend  
@@ -114,7 +114,7 @@ This project focuses entirely on UI/UX and is built as a base for future backend
 📄 Uploading and parsing CSVs  
 🗃️ Storing structured data in PostgreSQL  
 🔗 Serving mobile/web clients via REST APIs  
-🧪 Designed for scalability and API-driven frontends
+🧪 Designed for scalability and API-driven frontends  
 
 🔗 [View Project → Django Backend](https://github.com/Parker2107/App_Backend)
 
@@ -131,17 +131,25 @@ This project focuses entirely on UI/UX and is built as a base for future backend
 
 ## 📚 Currently Learning
 
-- Advanced React Native + MedusaJS workflows  
-- Optimizing relational DBs (MySQL/MSSQL internals)  
-- Strong form logic and schema validation with Zod  
+- 📦 Deep-dive into MedusaJS plugin architecture  
+- 🔍 SQL Indexing & optimization for large tables  
+- 📱 Mobile-first app design & accessibility  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parker2107&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Parker2107&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parker2107&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Parker2107/Parker2107/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
