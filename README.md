@@ -156,9 +156,9 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parker2107&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Parker2107&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Parker2107&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
+
 
 ---
 
