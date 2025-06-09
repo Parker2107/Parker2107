@@ -93,7 +93,9 @@
 🛒 Cart system with LocalStorage  
 📦 Product pages with search & sort  
 📬 Checkout form with validation  
-⚡ Smooth UX using custom hooks and components  
+⚡ Smooth UX using custom hooks and components
+ 
+🔗 [View Project → FakeStore](https://github.com/Parker2107/FakeStore)
 
 ---
 
