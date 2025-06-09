@@ -59,6 +59,8 @@
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 ![AsyncStorage](https://img.shields.io/badge/-AsyncStorage-6C3483?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ---
 
