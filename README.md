@@ -25,6 +25,9 @@
 ---
 
 ## Tech Stack
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2107&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ### 🖼️ Frontend
 
@@ -158,6 +161,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parker2107&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
+
 
 
 ---
