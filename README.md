@@ -169,7 +169,7 @@
 ## 📫 Let’s Connect
 
 💬 Want to collaborate or debug something together?  
-📮 DM me on [LinkedIn](https://www.linkedin.com/in/jeeveshmalhotra) or drop a star ⭐ on anything you liked!
+📮 DM me on [LinkedIn](https://www.linkedin.com/in/jeevesh-malhotra-975516290/) or drop a star ⭐ on anything you liked!
 
 ---
 
