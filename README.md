@@ -134,12 +134,14 @@
 
 ---
 
-### WireGuard Tunnel via Fly.io  
-> A custom network tunnel built to bypass network restrictions:  
-🔑 Encrypted tunnel using WireGuard  
-🚀 Hosted on Fly.io edge servers  
-🖥️ Configured for macOS (mobile setup next)  
-📡 Used to unlock full internet access behind NATs
+### 🔐 MasterKey – Password Manager  
+> A secure, **offline password manager** built with **Flask + SQLite + HTML/CSS/JS** to solve a personal security breach.  
+👥 Multi-user authentication with session-based login/logout  
+🗂️ CRUD operations for managing passwords in a scoped SQL database  
+🛡️ Ensures user-specific data isolation with unique user IDs  
+🎯 Designed as a self-contained, no-internet solution for everyday use  
+
+🔗 [View Project → Password-Manager](https://github.com/Parker2107/Password-Manager)  
 
 ---
 
