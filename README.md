@@ -49,10 +49,10 @@
 
 ### 🛍️ RN + Medusa OTP Ecommerce App *(WIP)*  
 > A mobile-first ecommerce app powered by **React Native + Medusa.js** backend.  
-✅ OTP login via phone  
-✅ Razorpay payment gateway integration  
-✅ Dynamic address picker and cart sync  
-✅ Built for production use with real API calls and modular architecture  
+📲 OTP login via phone number  
+💰 Razorpay payment gateway integration  
+📍 Dynamic address picker and real-time cart sync  
+🏗️ Built for production use with real API calls and modular architecture  
 
 ---
 
