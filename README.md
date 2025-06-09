@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 What I'm About
+## What I'm About
 
 - 🛒 Building a **production-grade ecommerce app** with **React Native + Medusa.js**, featuring Razorpay & OTP login
 - 🧠 Developing REST APIs with **Django + PostgreSQL** — user auth, CSV form handling, and multi-platform sync
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 🖼️ Frontend
 
@@ -65,7 +65,7 @@
 
 ---
 
-### 🔤 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -76,9 +76,9 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🛍️ RN + Medusa OTP Ecommerce App *(WIP)*  
+### RN + Medusa OTP Ecommerce App *(WIP)*  
 > A mobile-first ecommerce app powered by **React Native + Medusa.js** backend.  
 📲 OTP login via phone number  
 💰 Razorpay payment gateway integration  
@@ -87,7 +87,7 @@
 
 ---
 
-### 🌐 React Storefront (FakeStore API)  
+### React Storefront (FakeStore API)  
 > A full-stack ReactJS + TypeScript app with rich UI/UX.  
 🌓 Dark/Light mode toggle  
 🛒 Cart system with LocalStorage  
@@ -97,7 +97,7 @@
 
 ---
 
-### 🏦 Flutter Banking App (UI Prototype)  
+### Flutter Banking App (UI Prototype)  
 > A modern mobile banking frontend designed with **Flutter**, showcasing clean UI architecture and multi-screen navigation.  
 🔐 Login screen with input validation  
 💳 Responsive credit card display with masked card details  
@@ -109,7 +109,7 @@
 
 ---
 
-### 📂 Django + Supabase CSV Backend  
+### Django + Supabase CSV Backend  
 > Robust backend that enables:  
 📄 Uploading and parsing CSVs  
 🗃️ Storing structured data in PostgreSQL  
@@ -120,7 +120,7 @@
 
 ---
 
-### 🔐 WireGuard Tunnel via Fly.io  
+### WireGuard Tunnel via Fly.io  
 > A custom network tunnel built to bypass network restrictions:  
 🔑 Encrypted tunnel using WireGuard  
 🚀 Hosted on Fly.io edge servers  
@@ -142,14 +142,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parker2107&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Parker2107&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parker2107&theme=radical" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parker2107/Parker2107/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
