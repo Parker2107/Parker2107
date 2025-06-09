@@ -15,11 +15,11 @@
 
 ---
 
-## What I'm About
+## ⚒️ What I'm Building
 
-- 🛒 Building a **production-grade ecommerce app** with **React Native + Medusa.js**, featuring Razorpay & OTP login
-- 🧠 Developing REST APIs with **Django + PostgreSQL** — user auth, CSV form handling, and multi-platform sync
-- 🔐 Created a **WireGuard proxy tunnel** hosted on Fly.io to bypass hostel WiFi 🔍
+- 🛒 Building a **production-grade ecommerce app** with **React Native + Medusa.js**, featuring Razorpay & OTP login  
+- 🧠 Developing REST APIs with **Django + PostgreSQL** — user auth, CSV form handling, and multi-platform sync  
+- 🔐 Created a **WireGuard proxy tunnel** hosted on Fly.io to bypass hostel WiFi  
 - 💡 Passionate about clean architecture, reactive UX, and battle-testing backend flows
 
 ---
@@ -79,70 +79,57 @@
 
 ---
 
+## 📌 Pinned Highlights
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=App_Backend&theme=radical)](https://github.com/Parker2107/Password-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=FakeStore-FE&theme=radical)](https://github.com/Parker2107/FakeStore)
+
+---
+
 ## Featured Projects
 
 ### RN + Medusa OTP Ecommerce App *(WIP)*  
-> A mobile-first ecommerce app powered by **React Native + Medusa.js** backend.  
-📲 OTP login via phone number  
-💰 Razorpay payment gateway integration  
-📍 Dynamic address picker and real-time cart sync  
-🏗️ Built for production use with GCP API calls, using location permissions  
+> A mobile-first ecommerce app powered by React Native + Medusa.js backend.  
+Includes OTP login, Razorpay payments, real-time cart sync, and address picker — designed for production use.
 
 ---
 
 ### React Storefront (FakeStore API)  
 > A full-stack ReactJS + TypeScript app with rich UI/UX.  
-🌓 Dark/Light mode toggle  
-🛒 Cart system with LocalStorage  
-📦 Product pages with search & sort  
-📬 Checkout form with validation  
-⚡ Smooth UX using custom hooks and components
- 
-🔗 [View Project → FakeStore](https://github.com/Parker2107/FakeStore)
+Includes dark/light toggle, cart with localStorage, validated checkout form, and smooth custom hooks.
+
+🔗 [View Project → FakeStore](https://github.com/Parker2107/FakeStore-FE)
 
 ---
 
 ### Wiki Markdown App  
-> A lightweight markdown-based **Wiki-system replica** built with **Django + SQLite**.  
-📝 Create, read, edit, and delete pages using a dynamic MD editor  
-💾 Markdown preview with localStorage persistence
-🔍 Search & filter through pages in real-time
-📚 Designed for personal knowledge management and journaling
+> A lightweight markdown-based wiki system using Django + SQLite.  
+Create, edit, delete, and search through dynamic Markdown pages, stored with real-time local persistence.
 
 🔗 [View Project → Wiki](https://github.com/Parker2107/Wiki)  
-
 
 ---
 
 ### Flutter Banking App (UI Prototype)  
-> A modern mobile banking frontend designed with **Flutter**, showcasing clean UI architecture and multi-screen navigation.  
-🔐 Login screen with input validation  
-💳 Responsive credit card display with masked card details  
-📊 Recent transactions screen with organized list view  
-🧱 Modular layout using custom widgets and dummy data  
-🎯 Navigation flow from login to dashboard to card & transactions  
+> A mobile banking prototype built with Flutter, showcasing screen navigation and modular widgets.  
+Includes login, card dashboard, and transactions with clean UI design.
 
 🔗 [View Project → Banking App](https://github.com/Parker2107/BankingApp)
 
 ---
 
 ### Django + Supabase CSV Backend  
-> Robust backend that enables:  
-📄 Uploading and parsing CSVs  
-🗃️ Storing structured data in PostgreSQL  
-🔗 Serving mobile/web clients via REST APIs  
-🧪 Designed for scalability and API-driven frontends  
+> REST API backend with Django and PostgreSQL for CSV upload and mobile/web sync.  
+Handles CSV parsing, structured database writes, and scalable endpoints.
 
 🔗 [View Project → Django Backend](https://github.com/Parker2107/App_Backend)
 
 ---
 
 ### MasterKey – Password Manager  
-> A secure, **offline password manager** built with **Flask + SQLite + HTML/CSS/JS** to solve a personal security breach.  
-👥 Multi-user authentication with session-based login/logout  
-🗂️ CRUD operations for managing passwords in a scoped SQL database  
-🛡️ Ensures user-specific data isolation with unique user IDs  
-🎯 Designed as a self-contained, no-internet solution for everyday use  
+> A secure, offline password manager built with Flask + SQLite after a real security incident.  
+Includes multi-user login, scoped password CRUD, and isolated user storage — all without internet dependency.  
+It was built to solve a personal need during CS50 and marked my leap from CLI output to full-stack apps.
 
 🔗 [View Project → Password-Manager](https://github.com/Parker2107/Password-Manager)  
 
@@ -161,8 +148,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parker2107&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
-
-
 
 ---
 
