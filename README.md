@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Jeevesh Malhotra</h1>
 
 <h4 align="center">
-🧠 Builder • 🧑‍💻 Full-Stack Dev • 📱 App Enthusiast • 🛠️ Debug Ninja  
+🧠 Bug Exorcist • 🧑‍💻 Full-Stack Dev • 📱 App Enthusiast • 🛠️ Debug Ninja  
 </h4>
 
 <p align="center">
