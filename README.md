@@ -1,70 +1,78 @@
-# Hi, I'm Jeevesh Malhotra 👋  
-**(GitHub: Parker2107)**
+# 👋 Hey there, I'm Jeevesh Malhotra
 
-I’m a Computer Science undergrad building scalable full-stack apps and solving real-world problems. I specialize in web and mobile development using modern tools and technologies.
+### 🧠 Builder | 🧑‍💻 Full-Stack Dev | 📱 App Enthusiast | 🛠️ Debug Ninja
+
+Welcome to my digital playground! I’m a 20-year-old CS student with a passion for building things that just work — from sleek mobile apps to robust backend systems. Whether it’s wiring up a Flutter UI, managing API data flow with TanStack, or optimizing a SQL join that just won’t cooperate — I’m all in.
+
+---
+
+## 🚀 What I'm About
+
+- 🛒 Currently building a **production-grade ecommerce frontend** using **ReactJS + FakeStore API**
+- 📦 Architected a **REST API with Django & Supabase** for CSV storage & product syncing
+- 📱 Exploring **Flutter + Dart** to build smooth, beginner-friendly app dev experiences
+- 🔐 Deployed a working **WireGuard proxy tunnel via Fly.io** (Mac & mobile config)
+- ⚙️ Obsessed with clean code, seamless UX, and "why-is-this-breaking" level debugging
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React, React Native, TypeScript, Tailwind CSS  
-- **Backend / APIs:** Node.js, Express, MedusaJS, REST/GraphQL  
-- **Database:** PostgreSQL, MongoDB  
-- **Dev Tools:** Git, React Query, Expo, Jest, Playwright  
-- **Languages:** TypeScript, JavaScript, Python
+**Frontend**
+- ReactJS (with hooks, context, custom components)
+- TypeScript (✨ type-safety for the win)
+- React Native (for cross-platform mobile apps)
+
+**Backend**
+- Django (REST API development, auth, ORM)
+- Node.js (for lightweight tools & utilities)
+- PostgreSQL (via Supabase, with JSON & CSV handling)
+
+**DevOps / Tools**
+- Git & GitHub (obviously)
+- Fly.io, Render, Netlify
+- AsyncStorage, Zod, TanStack Query
+
+**Languages**
+- JavaScript / TypeScript
+- Python
+- Dart
 
 ---
 
-## 🚀 Highlight Projects
+## 🧩 Featured Projects
 
-### 🛒 E-Commerce & Checkout Modules
-- Custom React Native checkout flow built with MedusaJS backend — includes multiple steps for address, shipping, and Razorpay payment integration.
-- Integrated **address selection & validation**, dynamic shipping options, and robust error handling.
-- Solved tricky issues like lowercasing country codes, dynamically fetching shipping prices, and synchronizing payment sessions with Medusa.
+### 🛍️ React Ecommerce Storefront (FakeStore API)
+> ReactJS + TypeScript + Dark/Light Mode + LocalStorage Cart + Custom Address Checkout  
+A full-fledged fake store app where users can browse, search, add to cart, checkout, and view order summaries — all with clean UI and smooth UX.
 
-### 💳 Razorpay Integration
-- Implemented **RazorpayPaymentButton** in React Native.
-- Handled payment initiation, session validation, and real-time user flow.
-- Managed edge cases: "cart not ready", delayed session creation, and conditional rendering based on payment session state.
+### 📂 Django CSV Backend + Supabase Sync
+> Built a backend system to receive CSV files, parse & store them in a Postgres DB, and serve endpoints for real-time product syncing. Optimized for mobile clients.
 
-### 🔄 Real-Time UI Feedback
-- Smooth UI patterns for loading states and error alerts.
-- Streamlined checkout with animated modals, scroll-to-refresh, and contextual disabling of buttons.
-- Excellent UX even in poor network conditions — consistent state syncing with `react-query` and Medusa.
+### 📱 Flutter Shopping Cart App (WIP)
+> A modern cart app with live price updates based on quantity. Focused on state management, beginner-friendly layout logic, and test-driven development practices.
+
+### 🔐 WireGuard Proxy via Fly.io
+> Set up a full-blown WireGuard proxy tunnel from scratch. Configured on macOS and planned for mobile usage. Enables private routing and encrypted traffic via Fly.io's edge network.
 
 ---
 
-## 💡 Strengths & Approach
+## 💡 What I'm Learning Right Now
 
-- **Clean & reactive UI designs** — built with React Native and React Query.
-- **State-driven flows** — orchestrating shipping and payment via Medusa.
-- **Error-first thinking** — writing resilient code with meaningful logs and graceful fallbacks.
-- **Collaborative coding** — modular, reusable components with thorough inline documentation & state checks.
-
----
-
-## 📫 Let’s Connect
-
-I’m always open to talk about:
-- React / React Native best practices
-- Full checkout integrations
-- Full-stack challenges
-
-📧 Reach me at: **`jeevesh.malhotra@example.com`**
+- Custom hook design patterns in React
+- Deep dives into SQL optimization & index debugging
+- Writing trick MCQs for beginner-friendly app/web development tests
+- Researching hybrid algorithm design (Greedy + DP)
 
 ---
 
-> “Good software is like good art — seamless, intuitive, and delightful.”
+## 📫 Let's Connect!
+
+If you’re into building solid apps, solving painful bugs, or just want to talk backend logic and deployment quirks — I’m all ears.  
+→ [LinkedIn](https://www.linkedin.com/in/jeeveshmalhotra) *(you can add this if/when you want)*  
+→ Drop a star ⭐ on anything you liked!
 
 ---
 
-### 📌 What’s Next
+> “Code like a poet. Ship like a pirate.” — Me, probably.
 
-- Adding more payment providers (Stripe, PayPal)
-- Open-sourcing my checkout & payment module
-- Building full-stack projects using GraphQL & serverless architecture  
-- Aiming for OSS contributions and mobile-native features
-
----
-
-Thanks for stopping by! Let’s build something awesome 🚀
