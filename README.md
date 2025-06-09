@@ -160,6 +160,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parker2107&theme=radical&no-frame=true&row=1&margin-w=15" />
+  <a href="https://github.com/Parker2107">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parker2107&theme=rogue&hide_border=true" />
+</a>
+
 </p>
 
 
