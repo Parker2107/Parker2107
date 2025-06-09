@@ -81,8 +81,8 @@
 
 ## 📌 Pinned Highlights
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=App_Backend&theme=radical)](https://github.com/Parker2107/Password-Manager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=FakeStore-FE&theme=radical)](https://github.com/Parker2107/FakeStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=Django_Backend&theme=radical)](https://github.com/Parker2107/App_Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=FakeStore&theme=radical)](https://github.com/Parker2107/FakeStore-FE)
 
 ---
 
