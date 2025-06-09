@@ -81,7 +81,7 @@
 📲 OTP login via phone number  
 💰 Razorpay payment gateway integration  
 📍 Dynamic address picker and real-time cart sync  
-🏗️ Built for production use with real API calls and modular architecture  
+🏗️ Built for production use with GCP API calls, using Location perms from the user
 
 ---
 
