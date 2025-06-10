@@ -79,13 +79,6 @@
 
 ---
 
-## 📌 Pinned Highlights
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=App_Backend&theme=radical)](https://github.com/Parker2107/App_Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker2107&repo=FakeStore-FE&theme=radical)](https://github.com/Parker2107/FakeStore-FE)
-
----
-
 ## Featured Projects
 
 ### RN + Medusa OTP Ecommerce App *(WIP)*  
