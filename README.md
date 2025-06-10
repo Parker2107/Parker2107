@@ -82,7 +82,7 @@
 ## Featured Projects
 
 ### RN + Medusa OTP Ecommerce App *(WIP)*  
-> A mobile-first ecommerce app powered by React Native + Medusa.js backend.  
+> A mobile-first e-commerce app powered by React Native + Medusa.js backend.  
 Includes OTP login, Razorpay payments, real-time cart sync, and address picker — designed for production use.
 
 ---
