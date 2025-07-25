@@ -5,11 +5,11 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/Parker2107?tab=followers">
-    <img src="https://img.shields.io/github/followers/Parker2107?label=Follow&style=social" />
-  </a>
   <a href="https://github.com/Parker2107">
     <img src="https://img.shields.io/badge/Portfolio-Work-blue?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeevesh-malhotra-975516290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
