@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Work-blue?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/jeevesh-malhotra-975516290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
