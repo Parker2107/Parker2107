@@ -104,7 +104,7 @@ Let's users create events (weddings, parties, corporate), send invites, manage c
 
 ---
 
-### RN + Medusa OTP Ecommerce App
+### Himalayan DroneShala - RN + Medusa OTP Ecommerce App
 > A mobile-first e-commerce app powered by React Native + Medusa.js backend.  
 Includes OTP login, Razorpay payments, real-time cart sync, and address picker — designed for production use.
 
