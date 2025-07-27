@@ -17,10 +17,11 @@
 
 ## ⚒️ What I'm Building
 
-- 🛒 Building a **production-grade ecommerce app** with **React Native + Medusa.js**, featuring Razorpay & OTP login  
-- 🧠 Developing REST APIs with **Django + PostgreSQL** — user auth, CSV form handling, and multi-platform sync  
-- 🔐 Created a **WireGuard proxy tunnel** hosted on Fly.io to bypass hostel WiFi  
-- 💡 Passionate about clean architecture, reactive UX, and battle-testing backend flows
+- 🛒 Building a **React Native + Medusa** ecommerce app with **OTP login**, **Razorpay payments**, and real-time cart sync
+- 📬 Developing **PlaceMate**, a **Flutter + Django** app that uses Gmail API to detect placement-related emails with Google OAuth2 integration
+- 📦 Created a **Django + Supabase backend** for structured **CSV uploads** and mobile/web sync
+- 🔐 Built a **WireGuard proxy tunnel** on **Fly.io** to bypass network restrictions in hostel WiFi
+- ⚙️ Exploring clean architecture, reactive UIs, scalable REST APIs, and secure full-stack flows
 
 ---
 
