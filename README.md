@@ -89,7 +89,22 @@
 
 ## Featured Projects
 
-### RN + Medusa OTP Ecommerce App  
+### Flutter + Django + Supabase Placement Email Scanner&nbsp; ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square)
+> A Gmail-integrated mobile app built with Flutter and a Django + Supabase backend.  
+Uses Google OAuth2 to access and monitor the inbox for placement-related emails, parsing through emails automatically using AI and then classifying placement-related ones to notify the user.
+Designed for college students to track opportunities automatically.
+
+🔗 [View Project → PlaceMate](https://github.com/Parker2107/PlaceMate-BE)
+
+---
+
+### Ootsav – Event Scheduling & RSVP App &nbsp; ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square)
+> A centralised event platform built with Flutter and a Django backend.  
+Let's users create events (weddings, parties, corporate), send invites, manage co-hosts, and track RSVPs — with future AI-assisted personalisation planned.
+
+---
+
+### RN + Medusa OTP Ecommerce App
 > A mobile-first e-commerce app powered by React Native + Medusa.js backend.  
 Includes OTP login, Razorpay payments, real-time cart sync, and address picker — designed for production use.
 
