@@ -57,13 +57,21 @@
 
 ---
 
-### ⚙️ DevOps & Tools
+### ☁️ Cloud & DevOps
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/-Fly.io-000000?style=for-the-badge)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-F58536?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🧩 Storage & State
+
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AsyncStorage](https://img.shields.io/badge/-AsyncStorage-6C3483?style=for-the-badge)
 
 ---
@@ -81,9 +89,17 @@
 
 ## Featured Projects
 
-### RN + Medusa OTP Ecommerce App *(WIP)*  
+### RN + Medusa OTP Ecommerce App  
 > A mobile-first e-commerce app powered by React Native + Medusa.js backend.  
 Includes OTP login, Razorpay payments, real-time cart sync, and address picker — designed for production use.
+
+---
+
+### Django + Supabase CSV Backend  
+> REST API backend with Django and PostgreSQL for CSV upload and mobile/web sync.  
+Handles CSV parsing, structured database writes, and scalable endpoints.
+
+🔗 [View Project → Django Backend](https://github.com/Parker2107/App_Backend)
 
 ---
 
@@ -92,6 +108,15 @@ Includes OTP login, Razorpay payments, real-time cart sync, and address picker �
 Includes dark/light toggle, cart with localStorage, validated checkout form, and smooth custom hooks.
 
 🔗 [View Project → FakeStore](https://github.com/Parker2107/FakeStore-FE)
+
+---
+
+### MasterKey – Password Manager  
+> A secure, offline password manager built with Flask + SQLite after a real security incident.  
+Includes multi-user login, scoped password CRUD, and isolated user storage — all without internet dependency.  
+It was built to solve a personal need during CS50 and marked my leap from CLI output to full-stack apps.
+
+🔗 [View Project → Password-Manager](https://github.com/Parker2107/Password-Manager)  
 
 ---
 
@@ -111,28 +136,11 @@ Includes login, card dashboard, and transactions with clean UI design.
 
 ---
 
-### Django + Supabase CSV Backend  
-> REST API backend with Django and PostgreSQL for CSV upload and mobile/web sync.  
-Handles CSV parsing, structured database writes, and scalable endpoints.
-
-🔗 [View Project → Django Backend](https://github.com/Parker2107/App_Backend)
-
----
-
-### MasterKey – Password Manager  
-> A secure, offline password manager built with Flask + SQLite after a real security incident.  
-Includes multi-user login, scoped password CRUD, and isolated user storage — all without internet dependency.  
-It was built to solve a personal need during CS50 and marked my leap from CLI output to full-stack apps.
-
-🔗 [View Project → Password-Manager](https://github.com/Parker2107/Password-Manager)  
-
----
-
 ## 📚 Currently Learning
 
-- 📦 Deep-dive into MedusaJS plugin architecture  
-- 🔍 SQL Indexing & optimization for large tables  
-- 📱 Mobile-first app design & accessibility  
+- Flutter-Dart Mobile app development
+- DRF API creation and usage
+- Integrating AI to provide solutions for real challenges
 
 ---
 
