@@ -25,9 +25,11 @@
 
 ---
 
-## Tech Stack
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2107&layout=compact&theme=radical&hide_border=true" />
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parker2107&theme=dark&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2107&layout=compact&theme=radical&hide_border=false" height="160px"/>
 </p>
 
 ### 🖼️ Frontend
