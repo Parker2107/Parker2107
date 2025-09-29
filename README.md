@@ -93,7 +93,7 @@
 
 ## Featured Projects
 
-### Flutter + Django + Supabase Placement Email Scanner&nbsp; ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square)
+### PlaceMate - Flutter + Django + Supabase Placement Email Scanner&nbsp; ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square)
 > A Gmail-integrated mobile app built with Flutter and a Django + Supabase backend.  
 Uses Google OAuth2 to access and monitor the inbox for placement-related emails, parsing through emails automatically using AI and then classifying placement-related ones to notify the user.
 Designed for college students to track opportunities automatically
