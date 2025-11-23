@@ -101,7 +101,7 @@ Designed for college students to track opportunities automatically
 
 ---
 
-### Ootsav – Event Scheduling & RSVP App &nbsp; ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square)
+### Ootsav – Event Scheduling & RSVP App &nbsp;
 > A centralised event platform built with Flutter and a Django backend.  
 Let's users create events (weddings, parties, corporate), send invites, manage co-hosts, and track RSVPs — with future AI-assisted personalisation planned.
 
