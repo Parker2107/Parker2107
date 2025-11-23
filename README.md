@@ -28,7 +28,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parker2107&theme=dark&hide_border=false" height="160px"/>
+<!-- Contribution streak (Vercel mirror) -->
+  <img src="https://streak-stats.vercel.app/?user=Parker2107&theme=radical&hide_border=false"alt="GitHub Streak" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2107&layout=compact&theme=radical&hide_border=false" height="160px"/>
 </p>
 
