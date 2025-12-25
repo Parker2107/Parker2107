@@ -101,6 +101,15 @@ Designed for college students to track opportunities automatically
 
 ---
 
+### AI Cyber Threat Monitoring Dashboard
+
+> An AI-powered cybersecurity dashboard with blockchain-backed alert logging.
+Uses a Random Forest model (92% accuracy) to detect malicious network sessions, visualised via a Streamlit dashboard with model insights and immutable Ethereum-based alert records.
+
+🔗 [View Project → AI CyberSecurity Dashboard](https://github.com/sanchi1004/Cybersecurity-AI-Blockchain-Dashboard)
+
+---
+
 ### Ootsav – Event Scheduling & RSVP App &nbsp;
 > A centralised event platform built with Flutter and a Django backend.  
 Let's users create events (weddings, parties, corporate), send invites, manage co-hosts, and track RSVPs — with future AI-assisted personalisation planned.
