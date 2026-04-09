@@ -93,18 +93,32 @@ Uses a Random Forest model (92% accuracy) to detect malicious network sessions, 
 
 ---
 
-### Ootsav – Event Scheduling & RSVP App &nbsp;
-> A centralised event platform built with Flutter and a Django backend.  
-Let's users create events (weddings, parties, corporate), send invites, manage co-hosts, and track RSVPs — with future AI-assisted personalisation planned.
+### **Ootsav – Event Scheduling & RSVP App**
 
-🔗 [Download app -> App Store](https://apps.apple.com/in/app/ootsav/id6758633771)
-🔗 [Download app -> Google Play Store](https://play.google.com/store/apps/details?id=com.ootsav)
+A centralised event platform built with Flutter and a Django backend.  
+Lets users create events (weddings, parties, corporate), send invites, manage co-hosts, and track RSVPs — with future AI-assisted personalisation planned.
+
+<p align="left">
+  <a href="https://apps.apple.com/in/app/ootsav/id6758633771">
+    <img src="https://img.shields.io/badge/App%20Store-Download?color=white&style=for-the-badge&logo=apple&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.ootsav">
+    <img src="https://img.shields.io/badge/Google%20Play-Download?color=white&style=for-the-badge&logo=google-play&logoColor=black" />
+  </a>
+</p>
 
 ---
 
 ### Himalayan DroneShala - RN + Medusa OTP Ecommerce App
 > A mobile-first e-commerce app powered by React Native + Medusa.js backend.  
 Includes OTP login, Razorpay payments, real-time cart sync, and address picker — designed for production use.
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.ootsav](https://play.google.com/store/apps/details?id=com.parker_2107.deliveryapp&hl=en_IN">
+    <img src="https://img.shields.io/badge/Google%20Play-Download?color=white&style=for-the-badge&logo=google-play&logoColor=black" />
+  </a>
+</p>
 
 ---
 
