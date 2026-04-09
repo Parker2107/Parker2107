@@ -15,22 +15,12 @@
 
 ---
 
-## ⚒️ What I'm Building
-
-- 🛒 Building a **React Native + Medusa** ecommerce app with **OTP login**, **Razorpay payments**, and real-time cart sync
-- 📬 Developing **PlaceMate**, a **Flutter + Django** app that uses Gmail API to detect placement-related emails with Google OAuth2 integration
-- 📦 Created a **Django + Supabase backend** for structured **CSV uploads** and mobile/web sync
-- 🔐 Built a **WireGuard proxy tunnel** on **Fly.io** to bypass network restrictions in hostel WiFi
-- ⚙️ Exploring clean architecture, reactive UIs, scalable REST APIs, and secure full-stack flows
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
 <!-- Contribution streak (Vercel mirror) -->
   <img src="https://streak-stats.vercel.app/?user=Parker2107&theme=radical&hide_border=false"alt="GitHub Streak" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2107&layout=compact&theme=radical&hide_border=false" height="160px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2107&layout=compact&theme=radical&hide_border=false" height="160px"/> -->
 </p>
 
 ### 🖼️ Frontend
@@ -94,13 +84,6 @@
 
 ## Featured Projects
 
-### PlaceMate - Flutter + Django + Supabase Placement Email Scanner&nbsp; ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square)
-> A Gmail-integrated mobile app built with Flutter and a Django + Supabase backend.  
-Uses Google OAuth2 to access and monitor the inbox for placement-related emails, parsing through emails automatically using AI and then classifying placement-related ones to notify the user.
-Designed for college students to track opportunities automatically
-
----
-
 ### AI Cyber Threat Monitoring Dashboard
 
 > An AI-powered cybersecurity dashboard with blockchain-backed alert logging.
@@ -113,6 +96,9 @@ Uses a Random Forest model (92% accuracy) to detect malicious network sessions, 
 ### Ootsav – Event Scheduling & RSVP App &nbsp;
 > A centralised event platform built with Flutter and a Django backend.  
 Let's users create events (weddings, parties, corporate), send invites, manage co-hosts, and track RSVPs — with future AI-assisted personalisation planned.
+
+🔗 [Download app -> App Store](https://apps.apple.com/in/app/ootsav/id6758633771)
+🔗 [Download app -> Google Play Store](https://play.google.com/store/apps/details?id=com.ootsav)
 
 ---
 
